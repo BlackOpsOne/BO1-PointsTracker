@@ -1,5 +1,8 @@
 # BO1-PointsTracker
+
 A tool for Black Ops Zombies to automatically track your gained and lost points.
+
+![image](https://github.com/user-attachments/assets/c9301b9c-184f-4ce8-bc76-461ac4e23ee0)
 
 ## Installing
 Head to [Releases](https://github.com/BlackOpsOne/BO1-PointsTracker/releases) and download `BO1-PointsTracker.exe`, then open it along side the game. This does not work with the Microsoft Store version of the game.
